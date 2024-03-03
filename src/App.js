@@ -9,12 +9,12 @@ import FooterSection from "./FooterSection"
 const App = () => {
   return (
     <div>
-    <NavBar />
-    <Masthead />
-    <PortfolioSection />
-    <AboutSection />
-    <ContactSection />
-    {/* <FooterSection /> */}
+      <NavBar />
+      <Masthead />
+      <PortfolioSection />
+      <AboutSection />
+      <ContactSection />
+      <FooterSection />
     </div>
   )
 }
